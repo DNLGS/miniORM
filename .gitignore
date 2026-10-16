@@ -1,0 +1,7 @@
+# Versionar apenas os fontes do ORM e a documentacao principal.
+/*
+!/.gitignore
+!/README.md
+!/src/
+/src/*
+!/src/miniOrm.*.pas
